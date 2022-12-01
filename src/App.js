@@ -1,5 +1,7 @@
-import React, { useState } from "react";
-import "./styles.css";
+/* eslint-disable linebreak-style */
+/* eslint-disable no-unused-vars */
+import React, { useState } from 'react';
+import './styles.css';
 
 function App() {
   return (
